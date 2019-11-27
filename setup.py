@@ -1,8 +1,5 @@
 
-from setuptools import setup
-
-
-# This setup is suitable for "python setup.py develop".
+from setuptools import setup.
 
 setup(name='SpeechProcessing',
       version='0.1',
