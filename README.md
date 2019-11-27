@@ -14,7 +14,18 @@ Python 3+ : py -3 setup.py install
 
 ### HOW TO RUN THE PROGRAM:
 ```
-Give an example
+#SCRIPT 
+import SpeechProcessing as SP
+
+SP.sp()
+
+#OUTPUT
+Please enter a paragraph:
+I am ten years old. I want to become a C M of my state. I only have ten rupees
+You entered:
+I am ten years old. I want to become a C M of my state. I only have ten rupees
+The output after processing is:
+I am 10 years old. I want to become a CM of my state. I only have 10 ₹
 ```
 
 ### ERRORS:
