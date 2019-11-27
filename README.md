@@ -36,7 +36,7 @@ In case of any errors or queries please feel free to contact on my e-mail: pawan
 
 ## ACKNOWLEDGEMENTS
 1. Design .md file: https://medium.com/@latoyazamill/how-to-create-a-readme-md-file-37cffa2d7ab4
-2. Stack Overfliw
+2. Stack Overflow
 
 ## License
 
