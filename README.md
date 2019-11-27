@@ -34,10 +34,13 @@ Although it's a simple problem and it shall be resolved soon
 ### ERRORS:
 In case of any errors or queries please feel free to contact on my e-mail: pawan12394@gmail.com. 
 
+## ACKNOWLEDGEMENTS
+1. Design .md file: https://medium.com/@latoyazamill/how-to-create-a-readme-md-file-37cffa2d7ab4
+2. Stack Overfliw
+
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
-
 
 
 
