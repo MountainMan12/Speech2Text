@@ -27,6 +27,9 @@ I am ten years old. I want to become a C M of my state. I only have ten rupees
 The output after processing is:
 I am 10 years old. I want to become a CM of my state. I only have 10 ₹
 ```
+### ISSUES:
+As you can see the currency symbol was not present before the integer amount. I am currently working to fix that. 
+Although it's a simple problem and it shall be resolved soon
 
 ### ERRORS:
 In case of any errors or queries please feel free to contact on my e-mail: pawan12394@gmail.com. 
