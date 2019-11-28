@@ -4,19 +4,19 @@
 
 ### 1.1 SCOPE 
 
-1. Rules for processing large numbers e.g. two lakh twenty one thousand
-2. Addition of Voice Input in-place of Spoken Text to enhance user experience (This would involve use of additional libraries)
-3. Performing various arithmetic calculations e.g. four plus four (arithmetic rules adding to rules function)
-4. Spellchecker
-5. Checking the grammar for vowels e.g. **a umbrella** --->  **an umbrella**
-6. Processing uppercase words e.g. THREE, TRIPLE etc.
+- Rules for processing large numbers e.g. two lakh twenty one thousand
+- Addition of Voice Input in-place of Spoken Text to enhance user experience (This would involve use of additional libraries)
+- Performing various arithmetic calculations e.g. four plus four (arithmetic rules adding to rules function)
+- Spellchecker
+- Checking the grammar for vowels e.g. **a umbrella** --->  **an umbrella**
+- Processing uppercase words e.g. THREE, TRIPLE etc.
 
 ### 1.2. CONSTRAINTS
 
-1. The only language this library can work with is English
-2. The next update would include only basic arithmetic operations like (plus, minus, multiply, divide, modulus, absolute
-3. The grammar however cannot be checked for tenses, preposition, conjunction mistakes
-4. The program not be able to differentiate between example statements such as **divided by 2** and **divided by free-will**
+- The only language this library can work with is English
+- The next update would include only basic arithmetic operations like (plus, minus, multiply, divide, modulus, absolute
+- The grammar however cannot be checked for tenses, preposition, conjunction mistakes
+- The program not be able to differentiate between example statements such as **divided by 2** and **divided by free-will**
 
 ## 2. INSTALLATION
 
