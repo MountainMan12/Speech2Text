@@ -1,16 +1,6 @@
 #This is a program to convert spoken paragraph to a written paragraph in Python 3
 import sys
-#Defining rules to process the spoken paragraph
-def rules():
-    text_processing = {
-        "text_conv_abbr" : {'C M':'CM', 'G K': 'GK', 'I Q': 'IQ'},
-        "text_conv_numbers" : {'zero':'0','one':'1','two':'2','three':'3','four':'4','five':'5','six':'6','seven':'7','eight':'8','nine':'9','ten':'10','hundred':'100'},
-        "text_conv_repeats" : {'double':'2', 'triple':'3'},
-        "text_conv_symbols" : {'dollar':'$','dollars':'$','rupee':'₹','rupees':'₹','euro':'ē','euros':'ē'}
-    }
-    return text_processing
 
- 
 class Speech2Text:
 
     def __init__(self):
@@ -70,6 +60,17 @@ class Speech2Text:
         self.out_para = self.out_para.join(pro_list)
         print('The output after processing is:')
         print(self.out_para)
+
+#Defining rules to process the spoken paragraph
+def rules():
+    text_processing = {
+        "text_conv_abbr" : {'C M':'CM', 'G K': 'GK', 'I Q': 'IQ'},
+        "text_conv_numbers" : {'zero':'0','one':'1','two':'2','three':'3','four':'4','five':'5','six':'6','seven':'7','eight':'8','nine':'9','ten':'10','hundred':'100'},
+        "text_conv_repeats" : {'double':'2', 'triple':'3'},
+        "text_conv_symbols" : {'dollar':'$','dollars':'$','rupee':'₹','rupees':'₹','euro':'ē','euros':'ē'}
+    }
+    return text_processing
+
 
 def sp():
     spoken2text = Speech2Text() #Class Object
