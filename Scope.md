@@ -16,7 +16,7 @@
 - The only language this library can work with is English
 - The next update would include only basic arithmetic operations like (plus, minus, multiply, divide, modulus, absolute
 - The grammar however cannot be checked for tenses, preposition, conjunction mistakes
-- The program not be able to differentiate between example statements such as **divided by 2** and **divided by free-will**
+- The program may not be able to differentiate between example statements such as **divided by 2** and **divided by free-will**
 
 ## 2. INSTALLATION
 
