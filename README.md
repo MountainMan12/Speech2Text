@@ -8,11 +8,16 @@ For example, "two dollars" should be converted to $2. Abbreviations spoken as "C
 This Program was built using Python 3.7.4 64-bit
 
 ## INSTALLATION: 
+Ensure that you have a Python 3 or Pyhton 3+ as some minor syntax rules such as `print()` are not applicable to versions below Python 3
+
 ```
 Python 3+ : py -3 setup.py install
 ```
 
 ## HOW TO RUN THE PROGRAM:
+
+NOTE: You can import SpeechProcessing as anything other than SP in order to avoid confusion with the module name
+
 ```
 #SCRIPT 
 import SpeechProcessing as SP
